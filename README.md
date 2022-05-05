@@ -8,4 +8,4 @@ Components:
 - Bipolar transistor NPN Darlington MPSA29 100V/0.8A
 
 Fritzing model:
-![image](https://user-images.githubusercontent.com/91111354/167010541-5e8c0b73-e740-4692-9d21-9367e100da6f.png)
+![image](https://user-images.githubusercontent.com/91111354/167011366-4c76e9db-eb7e-416f-b126-ce8d7c4bb7ad.png)
